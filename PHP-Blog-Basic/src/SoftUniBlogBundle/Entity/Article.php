@@ -63,7 +63,7 @@ class Article
 
     public function __construct()
     {
-        $this->dateCreated = new \DateTime('now');
+        $this->dateAdded = new \DateTime('now');
     }
 
     /**

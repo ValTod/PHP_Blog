@@ -4,6 +4,7 @@ namespace SoftUniBlogBundle\Controller;
 
 use Sensio\Bundle\FrameworkExtraBundle\Configuration\Route;
 use Symfony\Bundle\FrameworkBundle\Controller\Controller;
+use SoftUniBlogBundle\Entity\Article;
 
 class HomeController extends Controller
 {
